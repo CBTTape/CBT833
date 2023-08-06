@@ -1,0 +1,15 @@
+2023-08-06 07:51:17.233207 - Initialized conversion of CBT833
+2023-08-06 07:51:17.316889 - Received CBT.V505.FILE833.PDS from FILE833.XMI 
+2023-08-06 07:51:17.319319 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:51:17.320314 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:51:17.321312 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/$$NOTE2
+2023-08-06 07:51:17.322192 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/$$NOTE3
+2023-08-06 07:51:17.323186 - Found @FILE833.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/@FILE833
+2023-08-06 07:51:17.323194 - Found ISRTSO.bin containing application/octet-stream, moved to PDS/ISRTSO
+2023-08-06 07:51:17.324967 - Found LABELS.rexx (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LABELS
+2023-08-06 07:51:17.325823 - Found LABELS1.rexx (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LABELS1
+2023-08-06 07:51:17.326632 - Found LAIDTL0.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LAIDTL0
+2023-08-06 07:51:17.327477 - Found LAIDUG.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LAIDUG
+2023-08-06 07:51:17.328331 - Found LAID00S.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LAID00S
+2023-08-06 07:51:17.329170 - Found LAID000.txt (text/plain) in CBT.V505.FILE833.PDS, moved to PDS/LAID000
+2023-08-06 07:51:17.329179 - Found SCRSHOT1.png containing image/png, moved to PDS/SCRSHOT1
