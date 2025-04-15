@@ -1,14 +1,14 @@
-2025-04-13 23:16:32.072349 - Received CBT.V508.FILE833.PDS from FILE833.XMI 
-2025-04-13 23:16:32.073351 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:16:32.073425 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE1
-2025-04-13 23:16:32.073494 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE2
-2025-04-13 23:16:32.073555 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE3
-2025-04-13 23:16:32.073614 - Found @FILE833.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/@FILE833
-2025-04-13 23:16:32.073693 - Found ISRTSO.bin (application/octet-stream) in CBT.V508.FILE833.PDS, moved to PDS/ISRTSO
-2025-04-13 23:16:32.073769 - Found LABELS.rexx (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LABELS
-2025-04-13 23:16:32.073846 - Found LABELS1.rexx (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LABELS1
-2025-04-13 23:16:32.073917 - Found LAIDTL0.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAIDTL0
-2025-04-13 23:16:32.073978 - Found LAIDUG.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAIDUG
-2025-04-13 23:16:32.074037 - Found LAID00S.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAID00S
-2025-04-13 23:16:32.074093 - Found LAID000.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAID000
-2025-04-13 23:16:32.074201 - Found SCRSHOT1.png (image/png) in CBT.V508.FILE833.PDS, moved to PDS/SCRSHOT1
+2025-04-15 05:57:19.941262 - Received CBT.V508.FILE833.PDS from FILE833.XMI 
+2025-04-15 05:57:19.942784 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:57:19.943113 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:57:19.943431 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE2
+2025-04-15 05:57:19.943739 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/$$NOTE3
+2025-04-15 05:57:19.943813 - Found @FILE833.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/@FILE833
+2025-04-15 05:57:19.944189 - Found ISRTSO.bin (application/octet-stream) in CBT.V508.FILE833.PDS, moved to PDS/ISRTSO
+2025-04-15 05:57:19.944554 - Found LABELS.rexx (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LABELS
+2025-04-15 05:57:19.944955 - Found LABELS1.rexx (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LABELS1
+2025-04-15 05:57:19.945378 - Found LAIDTL0.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAIDTL0
+2025-04-15 05:57:19.945803 - Found LAIDUG.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAIDUG
+2025-04-15 05:57:19.946143 - Found LAID00S.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAID00S
+2025-04-15 05:57:19.946485 - Found LAID000.txt (text/plain) in CBT.V508.FILE833.PDS, moved to PDS/LAID000
+2025-04-15 05:57:19.947155 - Found SCRSHOT1.png (image/png) in CBT.V508.FILE833.PDS, moved to PDS/SCRSHOT1
